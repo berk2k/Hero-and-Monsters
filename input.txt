@@ -1,0 +1,19 @@
+/* Terrain Info*/
+5
+4
+0 0 1 2     //put gold numbers randomly
+2 3 4 1
+1 1 0 0
+0 2 2 1
+2 1 1 0
+
+/*Monster info*/
+2
+4 2 Monster1 50
+3 1 Monster2 25
+
+/*Hero info*/
+2
+1 2 Ghost of Sparta 100
+2 3 Geralt of Rivia 100
+
