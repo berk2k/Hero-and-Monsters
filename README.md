@@ -1,1 +1,1 @@
-# Hero-and-Monsters
+# 2D array heroes and monsters simulation.
